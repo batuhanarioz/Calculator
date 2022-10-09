@@ -1,16 +1,16 @@
 :root {
     --background: #f6f6f6;
-    --font: #222;
+    --font: black;
     --border: #333;
     --screen: #eee;
-    --calculator: pink;
+    --calculator: rgb(230, 230, 88);
     --btn: #eee;
     --btn-hover: #ddd;
     --btn-active: #ccc;
-    --btn-red: #faa;
+    --btn-red: rgb(195, 50, 50);
     --btn-red-hover: #e99;
     --btn-red-active: #d88;
-    --btn-blue: #aaf;
+    --btn-blue: rgb(56, 56, 176);
     --btn-blue-hover: #99e;
     --btn-blue-active: #88d;
   }
